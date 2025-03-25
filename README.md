@@ -8,7 +8,7 @@ O  programa é um console application que envia várias requisições de forma s
 
 ## Tecnologias Utilizadas
 
-- **Go (Golang)**: Linguagem de programação para implementar a API.
+- **Go (Golang)**: Linguagem de programação para implementar o serviço e as Go Routines.
 
 ## **Instruções de Execução**
 ### **Rodando com Docker Compose**
