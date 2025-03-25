@@ -1,0 +1,5 @@
+services:
+  load-tester:
+    build: .
+    container_name: load-tester
+    command: ["--url=http://google.com", "--requests=1000", "--concurrency=10"]
